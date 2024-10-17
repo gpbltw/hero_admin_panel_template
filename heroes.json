@@ -11,6 +11,12 @@
       "name": "Неизвестный герой",
       "description": "Скрывающийся в тени",
       "element": "wind"
+    },
+    {
+      "id": "cc18436e-9690-4ed6-8840-90fceb24db0f",
+      "name": "Водяной герой",
+      "description": "Почти как аквамен ",
+      "element": "water"
     }
   ],
   "filters": [
